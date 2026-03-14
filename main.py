@@ -1,5 +1,5 @@
 def func1():
-    print("hello")
+    return "Get out of here"
 
 
 if __name__ == "__main__":
